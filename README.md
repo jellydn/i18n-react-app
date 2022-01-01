@@ -7,6 +7,12 @@
 
 ### ✨ [Demo](https://i18n-react-app.productsway.com)
 
+## Features
+
+- ⚡️ [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) An opinionated, fully type-safe, lightweight localization library for TypeScript and JavaScript projects with no external dependencies.
+- 📦 [new-web-app](https://github.com/jellydn/new-web-app) - Frontend app generator, built on top [vitejs](https://vitejs.dev/).
+- 🎨 [picocss](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML.
+
 ## Install
 
 ```sh
