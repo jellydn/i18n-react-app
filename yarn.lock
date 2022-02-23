@@ -3118,10 +3118,10 @@ typesafe-i18n@2.58.0:
   resolved "https://registry.yarnpkg.com/typesafe-i18n/-/typesafe-i18n-2.58.0.tgz#3c05a84975c36f8143e8e3c2c5aa4142a2b5c755"
   integrity sha512-wbFb+lzCrCZpcK9c3u5e/lG3TOnpDEhraCGMige/8PYau8qzV9MPFGumWW2GffD9MTnlNibYX0kLlm5BF9J55w==
 
-typescript@4.5.4:
-  version "4.5.4"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.5.4.tgz#a17d3a0263bf5c8723b9c52f43c5084edf13c2e8"
-  integrity sha512-VgYs2A2QIRuGphtzFV7aQJduJ2gyfTljngLzjpfW9FoYZF6xuw1W0vW9ghCKLfcWrCFxK81CSGRAvS1pn4fIUg==
+typescript@4.5.5:
+  version "4.5.5"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.5.5.tgz#d8c953832d28924a9e3d37c73d729c846c5896f3"
+  integrity sha512-TCTIul70LyWe6IJWT8QSYeA54WQe8EjQFU4wY52Fasj5UKx88LNYKCgBEHcOMOrFF1rKGbD8v/xcNWVUq9SymA==
 
 unbox-primitive@^1.0.1:
   version "1.0.1"
