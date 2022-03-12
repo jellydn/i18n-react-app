@@ -3212,10 +3212,10 @@ typesafe-i18n@2.60.2:
   resolved "https://registry.yarnpkg.com/typesafe-i18n/-/typesafe-i18n-2.60.2.tgz#ce23cdbfcc3a2bda52eb7b7accb756d8d4276466"
   integrity sha512-/xSM13e+0/VjeGBVotYLTmvvJve5y923QwAGeHuCjHWlj+xs8zirnNnYww/7rtYur714MxoLMOicnLU1j92rnQ==
 
-typescript@4.5.5:
-  version "4.5.5"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.5.5.tgz#d8c953832d28924a9e3d37c73d729c846c5896f3"
-  integrity sha512-TCTIul70LyWe6IJWT8QSYeA54WQe8EjQFU4wY52Fasj5UKx88LNYKCgBEHcOMOrFF1rKGbD8v/xcNWVUq9SymA==
+typescript@4.6.2:
+  version "4.6.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.6.2.tgz#fe12d2727b708f4eef40f51598b3398baa9611d4"
+  integrity sha512-HM/hFigTBHZhLXshn9sN37H085+hQGeJHJ/X7LpBWLID/fbc2acUMfU+lGD98X81sKP+pFa9f0DZmCwB9GnbAg==
 
 unbox-primitive@^1.0.1:
   version "1.0.1"
