@@ -1379,10 +1379,10 @@ eslint-config-prettier@^8.5.0:
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.5.0.tgz#5a81680ec934beca02c7b1a61cf8ca34b66feab1"
   integrity sha512-obmWKLUNCnhtQRKc+tmnYuQl0pFU1ibYJQ5BGhTVB08bHe9wC8qUeG7c08dj9XX+AuPj1YSGSQIHl1pnDHZR0Q==
 
-eslint-config-productsway@0.1.11-0:
-  version "0.1.11-0"
-  resolved "https://registry.yarnpkg.com/eslint-config-productsway/-/eslint-config-productsway-0.1.11-0.tgz#0b76fa5cc77c69bfd71674101b19d5eac1268c14"
-  integrity sha512-HZPbR5IQ89ppI2P3VO2/zVo9Y2BQcwu0I/RlTJ9h10qyoON0VWJPGu1cR8Hl3NlLFEsjeg6AxLRW46rREYN5Ug==
+eslint-config-productsway@0.1.11:
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/eslint-config-productsway/-/eslint-config-productsway-0.1.11.tgz#57211931b1805cff283e8e91fa9c5383fc622d3b"
+  integrity sha512-BUOL9ZBDQV5yHXkFX8RyWnMkWIJyrQZqITM7d4Fn9OfecuFJkAj8ClgRQwKaiutHkvWiW5mLEjlHOe96/nlN7g==
   dependencies:
     eslint-config-airbnb-typescript "^16.1.1"
     eslint-config-prettier "^8.5.0"
