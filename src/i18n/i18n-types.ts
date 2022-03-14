@@ -15,7 +15,7 @@ export type Translations = RootTranslation
 
 type RootTranslation = {
 	/**
-	 * Hello {name}!
+	 * Hi {name}! Please leave a star if you like this project: https://github.com/jellydn/i18n-react-app
 	 * @param {string} name
 	 */
 	Hello: RequiredParams<'name'>
@@ -23,7 +23,7 @@ type RootTranslation = {
 
 export type TranslationFunctions = {
 	/**
-	 * Hello {name}!
+	 * Hi {name}! Please leave a star if you like this project: https://github.com/jellydn/i18n-react-app
 	 */
 	Hello: (arg: { name: string }) => LocalizedString
 }
