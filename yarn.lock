@@ -3150,10 +3150,10 @@ type-fest@^0.21.3:
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.21.3.tgz#d260a24b0198436e133fa26a524a6d65fa3b2e37"
   integrity sha512-t0rzBq87m3fVcduHDUFhKmyyX+9eo6WQjZvf51Ea/M0Q7+T374Jp1aUiyUl0GKxp8M/OETVHSDvmkyPgvX+X2w==
 
-typesafe-i18n@4.5.0:
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/typesafe-i18n/-/typesafe-i18n-4.5.0.tgz#4b94358e96d322aeafe50d061b8a7ef204905838"
-  integrity sha512-phZSRWlMDETA4qyWYL0EQMmBVdD7YvjEcHuUYvfUTjE9KTbZc09ryP/NelPLkRjzhptxHrMzwyMlU5Fm1k2TKQ==
+typesafe-i18n@5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/typesafe-i18n/-/typesafe-i18n-5.0.1.tgz#5c8a13e3d30bc59e0848e577c33779bb11944345"
+  integrity sha512-sglHRlN7RE4E+5yGFWQw9t6QWA/iw9vYKhY59bDLwCrCR1a8f7J3iXKHP5D2J5EBD5m0W7yJ6idAal3bj6cs4A==
 
 typescript@4.6.2:
   version "4.6.2"
