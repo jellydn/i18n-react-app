@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import './App.css';
 import { Hello } from './Hello';
 import { LanguageSelection } from './LanguageSelection';
-import TypesafeI18n from './i18n/en/i18n-react';
+import TypesafeI18n from './i18n/i18n-react';
 import logo from './logo.svg';
 
 function App() {
